@@ -7,7 +7,6 @@ Excitingly, the project transformed into a Streamlit web app for real-time inter
 Success stems from a substantial dataset with 5000+ spam and non-spam messages, ensuring robustness and generalizability.
 
 This project showcases an efficient text classification approach, combining data preparation, preprocessing, and model building, leading to a user-friendly web app for spam detection.
-GitHub: [https://github.com/anurajbn/ext-classification_machine_learning-model]
 
 
 
